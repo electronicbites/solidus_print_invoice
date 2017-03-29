@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.authors      = 'Spree & Solidus Community'
 
-  s.add_dependency 'prawn', '1.2.0'
+  s.add_dependency 'prawn', '2.2.2'
   s.add_dependency 'prawn-table'
   s.add_dependency 'solidus', ['>= 1.0', '< 3']
   s.add_dependency "solidus_support"
